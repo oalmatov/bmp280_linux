@@ -14,8 +14,8 @@ Repository Contents
 Methods
 --------------------
 
-* **readData()** - Reads BMP280 sensor data.
-* **temperature()** - Outputs temperature data.
-* **pressure()** - Outputs pressure data.
+* **readData()** - Read data.
+* **temperature()** - Output temperature data in Celcius.
+* **pressure()** - Output pressure data (hPa).
 
 
