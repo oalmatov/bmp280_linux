@@ -1,6 +1,6 @@
 # bmp280_linux
 
-This is a C++ class designed to control the bmp280 temperature and pressure sensor.
+This is a C++ class designed to control the BMP280 sensor.
 
 This has been tested with Raspberry Pi 3.
 
